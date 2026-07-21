@@ -9,6 +9,9 @@
     <artifactId>ProjetMaven</artifactId>
     <version>1.0</version>
 
+    <!-- 1. Indispensable pour Tomcat -->
+    <packaging>war</packaging>
+
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
@@ -26,6 +29,8 @@
     </dependencies>
 
     <build>
+    <!-- 2. Recommandé pour avoir un nom de WAR propre -->
+        <finalName>App-Sonia</finalName>
 
         <plugins>
 
