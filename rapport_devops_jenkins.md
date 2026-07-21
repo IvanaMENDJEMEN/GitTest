@@ -35,9 +35,9 @@
 6. Vérification sur le tableau de bord Jenkins : le job TP1_Projet_Freestyle apparaît avec un statut vert (dernier build réussi en 5 sec).
 
 ### Captures d'écran
-![Création du job Freestyle](TP1_Projet_Freestyle/Creation_job.png)
-![Console de build réussie](TP1_Projet_Freestyle/Console_output.png)
-![Test de l'échec du build](TP1_Projet_Freestyle/Console_failed.png)
+(TP1_Projet_Freestyle/Creation_job.png)
+(TP1_Projet_Freestyle/Console_output.png)
+(TP1_Projet_Freestyle/Console_failed.png)
 
 
 ### Conclusion du TP
@@ -62,8 +62,8 @@ Ce premier TP a permis de prendre en main la création d'un job Freestyle, sa co
 8. Vérification sur la page du job : le widget Test Result Trend confirme la publication automatique du rapport de test (Latest Test Result, aucun échec).
 
 ### Captures d'écran
-![Reussite du test](TP2_Projet_Maven/test.png)
-![Rapport JUnit publié](TP2_Projet_Maven/junit_report.png)
+(TP2_Projet_Maven/test.png)
+(TP2_Projet_Maven/junit_report.png)
 
 ### Difficultés rencontrées
 - La rédaction du pom.xml (dépendances, plugins, configuration du packaging) a demandé plusieurs ajustements avant d'obtenir une configuration correcte et exploitable par Jenkins.
