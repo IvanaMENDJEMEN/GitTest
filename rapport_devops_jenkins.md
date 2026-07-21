@@ -35,7 +35,7 @@
 6. Vérification sur le tableau de bord Jenkins : le job TP1_Projet_Freestyle apparaît avec un statut vert (dernier build réussi en 5 sec).
 
 ### Captures d'écran
-(TP1_Projet_Freestyle/Creation_job.png)
+![TP1_Projet_Freestyle/Creation_job.png]
 (TP1_Projet_Freestyle/Console_output.png)
 (TP1_Projet_Freestyle/Console_failed.png)
 
